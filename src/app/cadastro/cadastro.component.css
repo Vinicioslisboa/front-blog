@@ -1,0 +1,53 @@
+#img-bg{
+    background-image: url('https://i.imgur.com/vBbg9Nr.jpg');
+    
+    min-height: 760px;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tipofonte{
+    font-size: 50px;
+    font-family: 'bebas neue', sans-serif
+}
+
+.ebutton{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.ebutton:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.borderCadastro{
+    border-radius: 30px;
+    border: 2px solid #ffc107;
+    box-shadow: 0 0 10px #ffc107;
+    box-shadow: 0 0 20px black;
+}
+
+input{
+    border: 2px solid #ffc107;
+}
+
+input:focus {
+    outline: none !important;
+    border:1px solid #ffc107;
+    box-shadow: 0 0 10px #ffc107;
+}
+
+
+select{
+    border: 2px solid #ffc107;
+}
+
+select:focus {
+    outline: none !important;
+    border:1px solid #ffc107;
+    box-shadow: 0 0 10px #ffc107;
+}

@@ -1,0 +1,10 @@
+.linkInicio{
+    color: black;
+
+}
+
+.linkInicio:hover{
+    color: black;
+    text-decoration: none;
+
+}
