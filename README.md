@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   <br><br>
   <a href="#tech">Technologies</a> | <a href="#license">License</a>
   <hr>
-  <strong>This project is a personal blog developed during Generation Brasil bootcamp. On this blog, various users can post and discuss about technology related topics. </strong><br>
+  <strong>This project is a personal blog developed during Generation Brasil bootcamp. On this blog, various users can post and discuss about technology related topics. </strong><br><br>
    
   <img src="https://i.imgur.com/SyD2COL.png">
   
