@@ -62,7 +62,7 @@ This project was developed with the following technologies:
   <li><a href="https://code.visualstudio.com">VS Code</a></li>
   </ul>
   
- # 📝 License
+ # 📝 License <div id="license"></div>
  This project is under the MIT license. LICENSE under creation.
  <hr>
  Made with 👨‍💻 by Vinícios Lisboa 👋 <a href="https://www.linkedin.com/in/vinicioslisboa/" target="_blank">Get in touch!</a>
