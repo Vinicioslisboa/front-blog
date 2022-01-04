@@ -1,7 +1,7 @@
 <div align="center">
 <h1><img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="50px">Blog Pessoal</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2, access our ➡️ <a href="https://github.com/Vinicioslisboa/turma30java/tree/main/java/ProjetoBlog/deploy_blogPessoal">back-end</a> and <a href="https://vinicioslisboa.github.io/doc-blogPessoal.v2/index.html">documentation</a>.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2, access our ➡️ <a href="https://github.com/Vinicioslisboa/turma30java/tree/main/java/ProjetoBlog/deploy_blogPessoal" target="_blank">back-end</a> and <a href="https://vinicioslisboa.github.io/doc-blogPessoal.v2/index.html" target="_blank">documentation</a>.
   <br><br>
   <a href="#tech">Technologies</a> | <a href="#license">License</a>
   <hr>
